@@ -1,2 +1,2 @@
 # BlueArpeggioX_Applied_Economics
-应用经济学已发表文章的存档
+“应用经济学”专栏已发表文章的存档
